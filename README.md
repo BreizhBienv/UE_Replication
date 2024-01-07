@@ -6,6 +6,8 @@ It was realised by two programmers: me and [Emma Masseteau](https://github.com/E
 
 The exercise involved in the creation of a dedicated server, the management of sessions, the creation of a lobby, and obviously, managing the game on the server and the client.
 
+Versioning tool: perforce. 
+
 ## Set-up Instructions
 
 ### Server side
