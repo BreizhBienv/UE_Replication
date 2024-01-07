@@ -18,7 +18,5 @@ The exercise involved in the creation of a dedicated server, the management of s
 Two solution:
 * Go to realese and download the shipped project.
   * Then, run the ".exe" file.
-  *  Enjoy.
 * Same thing as for the server: make sure you the right path to "UnrealEditor.exe" in the "StartClient.bat".
   * Run the ".bat".
-  * Enjoy.
